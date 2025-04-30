@@ -1,12 +1,6 @@
 # GoBuddy
 GoBuddy is a ride-sharing application that connects travelers across Canada and help them share their rides with passengers who are traveling to the same destination. The app can be accessed by both, drivers (users who are driving somewhere, and are planning to share their ride) and passengers (users who are looking for a ride to their destination). Drivers can post ads about their trips, including details like their Source, Destination, Date of Journey (DOJ), Number of seats available, Vehicle image etc. Passenger can search for available rides based on the Source, Destination and Date of Journey, and book seats for that trip, if they like it. This app connects drivers with passengers efficiently, and in real-time. Additional support like tracking location makes it a great app to use.
 
-## Team Members
-
-| Name 	| B00 Number 	| Email 	|
-|---	|---	|---	|
-| Shruthi Ramesh Kalasapura 	| B00822766 | shruthikramesh@dal.ca |
-|  Anirudh Rayasam	| B00824329 	| anirudh.rayasam@dal.ca 	|
 
 ## Description
 
